@@ -2,7 +2,7 @@
 
 **Happy to be here and you see me!**
 
-[My portfolio](https://runlingli.github.io/portforlio/)
+[My portforlio](https://runlingli.github.io/portforlio/)
 |Categories|Technologies|
 |----------|------------------|
 |**Programming / IDE** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white) ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=Go&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
