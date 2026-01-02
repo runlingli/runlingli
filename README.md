@@ -2,10 +2,10 @@
 
 **Happy to be here and you see me!**
 
-[My portfolio](https://runlingli.github.io/portfolio/)
+[My portfolio](https://runlingli.github.io/portforlio/)
 |Categories|Technologies|
 |----------|------------------|
-|**Programming / IDE**                                   | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white) ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=Go&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)                            |
+|**Programming / IDE** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white) ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=Go&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=Svelte&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=TailwindCSS&logoColor=white) |
 | **Backend / Frameworks** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white) |
 | **Databases / Cache / Messaging** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=RabbitMQ&logoColor=white) |
