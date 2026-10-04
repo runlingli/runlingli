@@ -1,14 +1,28 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&size=30&pause=1000&color=1B667D&center=true&width=435&lines=Hi!+I+am+Runling)](https://git.io/typing-svg)
+<h2 align="center">Hi, I'm Runling Li</h2>
 
+<p align="center">
+Backend & LLM agent engineer · CS @ UC Davis, graduating Dec 2026 · open to new grad SWE roles
+<br/>
+<a href="https://runling.online">runling.online</a> ·
+<a href="https://www.linkedin.com/in/runlingli">LinkedIn</a> ·
+<a href="mailto:runlingli10@gmail.com">runlingli10@gmail.com</a>
+</p>
 
-[My portforlio](https://runlingli.github.io/portforlio/)
+I build backend systems and LLM applications. Right now I'm a student software developer at UC Davis IET, working on MyInfoVault, the university's faculty merit and promotion system (Java, JSP, MariaDB, Tomcat). Before that: Software Engineer Intern at TCR (Flask + React compliance platform) and Software Engineer on UC Davis CodeLab × Google (FastAPI resume-matching service on GCP Cloud Run).
 
-# I am learning...
-|Categories|Technologies|
-|----------|------------------|
-|**Programming / IDE** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white) ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=Go&logoColor=white)                                              |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=Svelte&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=TailwindCSS&logoColor=white) |
-| **Backend / Frameworks** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white) |
-| **Databases / Cache / Messaging** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=RabbitMQ&logoColor=white) |
-| **Tools / Platforms** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white) |
-| **AI / ML / LLM** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)       |
+### Selected projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**LingoCafe**](https://github.com/runlingli/LingoCafe) · [live](https://lingocafe.online) | High-concurrency knowledge-sharing community: three-tier cache, Redis counters with Lua, Outbox → Canal → Kafka, Elasticsearch search, Spring AI RAG | Java 21, Spring Boot, Redis, Kafka, Elasticsearch, MySQL |
+| **OFFER** | My own job-search agent: iOS app + share extension, a Claude Code agent on the Mac, and a self-hosted job board with GitHub Actions deploys | Swift, SwiftUI, Python, Docker, Traefik |
+| [**TaxCounsel**](https://github.com/runlingli/TaxCounsel) | RAG tax advisor with hybrid retrieval, RRF + CrossEncoder reranking and an LLM critic loop; RAGAS faithfulness 0.89 | Python, LlamaIndex, Qdrant, LangGraph, FastAPI |
+| [**TinyRent**](https://github.com/runlingli/TinyRent) | Rental listing platform as seven Go microservices with async email and logging over RabbitMQ | Go, RabbitMQ, PostgreSQL, MongoDB, Redis |
+| [**Prompt Evaluation Platform**](https://github.com/runlingli/Prompt_evaluation_platform) | One prompt across 8 LLMs side by side; parallel dispatch cut average response time about 88% | FastAPI, LiteLLM, PostgreSQL, React |
+| [**reHome**](https://github.com/runlingli/reHome) | HackDavis 2026 move-out marketplace for graduating students | SwiftUI, React, Firebase |
+
+### Tech
+
+**Backend:** Java, Spring Boot, Python, FastAPI, Flask, Go · **Data:** MySQL, PostgreSQL, Redis, Kafka, Elasticsearch, RabbitMQ
+**LLM / agents:** RAG, hybrid retrieval, LangGraph, LlamaIndex, Qdrant, LiteLLM, Claude Code · **Frontend:** React, TypeScript, Next.js, SwiftUI
+**Infra:** Docker, Traefik, GitHub Actions, GCP Cloud Run, Linux
