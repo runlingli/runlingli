@@ -1,23 +1,16 @@
-<div align="center">
+<a href="https://runling.online"><img src="assets/header.svg" width="100%" alt="Runling Li · Backend & LLM Agent Engineer"></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=30&pause=1200&color=1B667D&center=true&vCenter=true&width=600&lines=Hi!+I+am+Runling+%F0%9F%91%8B;Backend+%26+LLM+Agent+Engineer;UC+Davis+CS+%C2%B7+Class+of+Dec+2026;Open+to+new+grad+SWE+roles)](https://git.io/typing-svg)
+<p align="center">
+<a href="https://runling.online"><img src="https://img.shields.io/badge/Portfolio-runling.online-1B667D?style=flat&logo=googlechrome&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/runlingli"><img src="https://img.shields.io/badge/LinkedIn-runlingli-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="mailto:runlingli10@gmail.com"><img src="https://img.shields.io/badge/Email-runlingli10%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"></a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-runling.online-1B667D?style=flat&logo=googlechrome&logoColor=white)](https://runling.online)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-runlingli-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/runlingli)
-[![Email](https://img.shields.io/badge/Email-runlingli10%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:runlingli10@gmail.com)
-![Profile views](https://komarev.com/ghpvc/?username=runlingli&color=1B667D&style=flat&label=Profile+views)
+### About
 
-</div>
+I build backend systems and LLM applications. I'm a Computer Science student at UC Davis graduating in December 2026, currently a student software developer at UC Davis IET working on MyInfoVault. Before that I was a software engineer intern at TCR and a software engineer on UC Davis CodeLab × Google. Open to new grad roles and to relocating.
 
-### 🌱 About me
-
-- 🎓 Computer Science @ UC Davis, graduating **Dec 2026**
-- 💼 Student Software Developer @ **UC Davis IET**, working on MyInfoVault
-- 🔧 Previously: SWE Intern @ **TCR**, Software Engineer @ **UC Davis CodeLab × Google**
-- 🤖 Building backend systems and LLM / agent applications
-- 🌍 Open to new grad roles and to relocating anywhere
-
-### 🛠️ Tech stack
+### Tech stack
 
 | Categories | Technologies |
 |----------|------------------|
@@ -28,26 +21,11 @@
 | **Frontend / Mobile** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=TailwindCSS&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white) |
 | **Infra / Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Traefik](https://img.shields.io/badge/-Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white) ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white) |
 
-### 🚀 Featured projects
+### Featured projects
 
-<div align="center">
-
-<a href="https://github.com/runlingli/LingoCafe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=runlingli&repo=LingoCafe&theme=transparent&hide_border=true&title_color=1B667D&icon_color=1B667D" /></a>
-<a href="https://github.com/runlingli/TaxCounsel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=runlingli&repo=TaxCounsel&theme=transparent&hide_border=true&title_color=1B667D&icon_color=1B667D" /></a>
-<a href="https://github.com/runlingli/TinyRent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=runlingli&repo=TinyRent&theme=transparent&hide_border=true&title_color=1B667D&icon_color=1B667D" /></a>
-<a href="https://github.com/runlingli/Prompt_evaluation_platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=runlingli&repo=Prompt_evaluation_platform&theme=transparent&hide_border=true&title_color=1B667D&icon_color=1B667D" /></a>
-
-</div>
-
-### 📊 GitHub activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=runlingli&theme=transparent&hide_border=true&ring=1B667D&fire=1B667D&currStreakLabel=1B667D" height="160" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/runlingli/runlingli/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/runlingli/runlingli/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
+<p align="center">
+<a href="https://github.com/runlingli/LingoCafe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-lingocafe-dark.svg"><img src="assets/card-lingocafe-light.svg" width="49%" alt="lingocafe"></picture></a>
+<a href="https://runling.online"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-offer-dark.svg"><img src="assets/card-offer-light.svg" width="49%" alt="offer"></picture></a>
+<a href="https://github.com/runlingli/TaxCounsel"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-taxcounsel-dark.svg"><img src="assets/card-taxcounsel-light.svg" width="49%" alt="taxcounsel"></picture></a>
+<a href="https://github.com/runlingli/TinyRent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-tinyrent-dark.svg"><img src="assets/card-tinyrent-light.svg" width="49%" alt="tinyrent"></picture></a>
+</p>
